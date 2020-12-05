@@ -1,5 +1,5 @@
 import './styles.css';
-import CountdownTimer from './js/class';
+import CountdownTimer from './js/constructor';
 
 
 const timer = new CountdownTimer({
